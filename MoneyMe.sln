@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Money.Api", "Money.Api\Money.Api.csproj", "{DE5C91E2-1300-4337-B88E-D9C4D65733ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyMe.Core", "MoneyMe.Core\MoneyMe.Core.csproj", "{DCB6FC05-8698-4843-A37A-74208B9420B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyMe.Application", "MoneyMe.Application\MoneyMe.Application.csproj", "{7D8A2F95-3336-4628-B8D6-E4FAA5272E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyMe.Insfrastracture", "MoneyMe.Insfrastracture\MoneyMe.Insfrastracture.csproj", "{BBE5EEAC-4298-4BE1-B1DC-D36D65FD202A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyMe.UI", "MoneyMe.UI\MoneyMe.UI.csproj", "{B0627FB8-8623-4886-87C9-637349056322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyMe.Test", "MoneyMe.Test\MoneyMe.Test.csproj", "{A6C01D75-F3E8-47BD-8080-D6B73377454A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5C91E2-1300-4337-B88E-D9C4D65733ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5C91E2-1300-4337-B88E-D9C4D65733ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5C91E2-1300-4337-B88E-D9C4D65733ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5C91E2-1300-4337-B88E-D9C4D65733ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB6FC05-8698-4843-A37A-74208B9420B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB6FC05-8698-4843-A37A-74208B9420B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB6FC05-8698-4843-A37A-74208B9420B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB6FC05-8698-4843-A37A-74208B9420B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8A2F95-3336-4628-B8D6-E4FAA5272E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8A2F95-3336-4628-B8D6-E4FAA5272E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8A2F95-3336-4628-B8D6-E4FAA5272E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8A2F95-3336-4628-B8D6-E4FAA5272E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE5EEAC-4298-4BE1-B1DC-D36D65FD202A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE5EEAC-4298-4BE1-B1DC-D36D65FD202A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE5EEAC-4298-4BE1-B1DC-D36D65FD202A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE5EEAC-4298-4BE1-B1DC-D36D65FD202A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0627FB8-8623-4886-87C9-637349056322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0627FB8-8623-4886-87C9-637349056322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0627FB8-8623-4886-87C9-637349056322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0627FB8-8623-4886-87C9-637349056322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C01D75-F3E8-47BD-8080-D6B73377454A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C01D75-F3E8-47BD-8080-D6B73377454A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C01D75-F3E8-47BD-8080-D6B73377454A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C01D75-F3E8-47BD-8080-D6B73377454A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D370DDD-473B-4EA4-87F8-8E1EFCDA4C18}
+	EndGlobalSection
+EndGlobal

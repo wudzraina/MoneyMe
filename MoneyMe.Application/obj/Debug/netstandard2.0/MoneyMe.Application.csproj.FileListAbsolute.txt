@@ -1,0 +1,11 @@
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\bin\Debug\netstandard2.0\MoneyMe.Application.deps.json
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\bin\Debug\netstandard2.0\MoneyMe.Application.dll
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\bin\Debug\netstandard2.0\MoneyMe.Application.pdb
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\bin\Debug\netstandard2.0\MoneyMe.Core.dll
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\bin\Debug\netstandard2.0\MoneyMe.Core.pdb
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\obj\Debug\netstandard2.0\MoneyMe.Application.csprojAssemblyReference.cache
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\obj\Debug\netstandard2.0\MoneyMe.Application.AssemblyInfoInputs.cache
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\obj\Debug\netstandard2.0\MoneyMe.Application.AssemblyInfo.cs
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\obj\Debug\netstandard2.0\MoneyMe.Application.csproj.CopyComplete
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\obj\Debug\netstandard2.0\MoneyMe.Application.dll
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Application\obj\Debug\netstandard2.0\MoneyMe.Application.pdb

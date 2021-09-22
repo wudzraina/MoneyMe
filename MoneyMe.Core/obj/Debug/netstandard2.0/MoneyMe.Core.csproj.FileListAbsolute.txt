@@ -1,0 +1,7 @@
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Core\bin\Debug\netstandard2.0\MoneyMe.Core.deps.json
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Core\bin\Debug\netstandard2.0\MoneyMe.Core.dll
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Core\bin\Debug\netstandard2.0\MoneyMe.Core.pdb
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Core\obj\Debug\netstandard2.0\MoneyMe.Core.AssemblyInfoInputs.cache
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Core\obj\Debug\netstandard2.0\MoneyMe.Core.AssemblyInfo.cs
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Core\obj\Debug\netstandard2.0\MoneyMe.Core.dll
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Core\obj\Debug\netstandard2.0\MoneyMe.Core.pdb

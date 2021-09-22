@@ -1,0 +1,13 @@
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\bin\Debug\netstandard2.0\MoneyMe.Insfrastracture.deps.json
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\bin\Debug\netstandard2.0\MoneyMe.Insfrastracture.dll
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\bin\Debug\netstandard2.0\MoneyMe.Insfrastracture.pdb
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\bin\Debug\netstandard2.0\MoneyMe.Application.dll
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\bin\Debug\netstandard2.0\MoneyMe.Core.dll
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\bin\Debug\netstandard2.0\MoneyMe.Application.pdb
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\bin\Debug\netstandard2.0\MoneyMe.Core.pdb
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\obj\Debug\netstandard2.0\MoneyMe.Insfrastracture.csprojAssemblyReference.cache
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\obj\Debug\netstandard2.0\MoneyMe.Insfrastracture.AssemblyInfoInputs.cache
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\obj\Debug\netstandard2.0\MoneyMe.Insfrastracture.AssemblyInfo.cs
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\obj\Debug\netstandard2.0\MoneyMe.Insfrastracture.csproj.CopyComplete
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\obj\Debug\netstandard2.0\MoneyMe.Insfrastracture.dll
+C:\Users\muhallidin.wali\Desktop\Technical Exam\MoneyMe\MoneyMe.Insfrastracture\obj\Debug\netstandard2.0\MoneyMe.Insfrastracture.pdb
